@@ -28,7 +28,7 @@
 
 #### 🔺 `00:01` to `00:29` min using `past` pronunciation.
 
-<img src="./assets/1x/Past_TIme.png" width="200px">
+<img src="./assets/1x/Past_Time.png" width="200px">
 
 ****
 
